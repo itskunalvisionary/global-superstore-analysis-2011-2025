@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Ignore large temp data
+data/*.tmp
+data/*backup*
+
+# VSCode
+.vscode/
